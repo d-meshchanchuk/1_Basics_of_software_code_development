@@ -16,6 +16,7 @@ public class Task05 {
         double y;
 
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите х: ");
         x = scanner.nextInt();
 
         if (x > 3) {
